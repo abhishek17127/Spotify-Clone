@@ -1,0 +1,9 @@
+.iconlayer {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.layerIcon {
+  padding: 10px;
+}

@@ -1,0 +1,20 @@
+.songs {
+  display: flex;
+  align-items: center;
+}
+
+.song_image {
+  object-fit: contain;
+  width: 50px;
+  padding: 12px;
+  margin-left: 5px;
+}
+
+.songName {
+  padding: 10px;
+  color: gray;
+}
+
+.songName:hover {
+  color: white;
+}
